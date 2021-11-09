@@ -1,4 +1,4 @@
-module gocurl
+module github.com/gmenti/gocurl
 
 go 1.17
 
